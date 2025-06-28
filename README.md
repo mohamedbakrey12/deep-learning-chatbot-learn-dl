@@ -1,14 +1,10 @@
+## 📄 `README.md`
+
 * ✅ **Streamlit app**
 
 * ✅  **RAG (Retrieval-Augmented Generation)**
 * ✅  **Source data Deep Learning book** 
 
-`README.md`
-
----
-
-## 📄 `README.md` 
-````markdown
 # 💡 Deep Learning RAG Assistant
 
 An interactive AI assistant for learning Deep Learning using Retrieval-Augmented Generation (RAG) and a local language model (LLaMA 3.1 via Ollama). This assistant can answer questions from a vectorized Deep Learning book in real time using a combination of FAISS retrieval and local LLM.
